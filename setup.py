@@ -8,11 +8,11 @@ with open(os.path.join(here, "README.md"), encoding="utf-8") as f:
 setup(
     name="etf-lab",
     version="0.0.1",
-    description="ETF lab crawler and database",
+    description="ETF lab crawlerv and database",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    author="joycehsu, winstonlu",
-    author_email="egroup.joyce@gmail.com, apollo07291@gmail.com",
+    author="peiyuji",
+    author_email="w44152857@gmail.com",
     classifiers=[
         "Development Status :: 3 - Alpha",
     ],
